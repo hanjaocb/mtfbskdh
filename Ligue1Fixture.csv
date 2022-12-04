@@ -1,0 +1,381 @@
+﻿Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,MatchID
+38,Sat,5/21/2022,21:00 (03:00),Lens,2.1,2–2,1.5,Monaco,"37,764",Stade Bollaert-Delelis,Benoît Bastien,2122001
+38,Sat,5/21/2022,21:00 (03:00),Marseille,2.3,4–0,1.2,Strasbourg,"63,873",Orange Vélodrome,Stéphanie Frappart,2122002
+38,Sat,5/21/2022,21:00 (03:00),Reims,0.9,2–3,2.3,Nice,"12,589",Stade Auguste-Delaune II,Eric Wattellier,2122003
+38,Sat,5/21/2022,21:00 (03:00),Paris S-G,5.4,5–0,0.8,Metz,"45,000",Parc des Princes,Antony Gautier,2122004
+38,Sat,5/21/2022,21:00 (03:00),Lorient,1.6,1–1,0.7,Troyes,"15,131",Stade Yves Allainmat - Le Moustoir,Johan Hamel,2122005
+38,Sat,5/21/2022,21:00 (03:00),Angers,2.6,2–0,1.3,Montpellier,"11,249",Stade Raymond Kopa,Romain Lissorgue,2122006
+38,Sat,5/21/2022,21:00 (03:00),Clermont Foot,2.5,1–2,2.9,Lyon,"12,000",Stade Gabriel Montpied,Mikael Lesage,2122007
+38,Sat,5/21/2022,21:00 (03:00),Nantes,2.3,1–1,1.6,Saint-Étienne,"28,636",Stade de la Beaujoire - Louis Fonteneau,François Letexier,2122008
+38,Sat,5/21/2022,21:00 (03:00),Brest,1.1,2–4,3.4,Bordeaux,"14,484",Stade Francis-Le Blé,Hakim Ben El Hadj Salem,2122009
+38,Sat,5/21/2022,21:00 (03:00),Lille,1.9,2–2,1.4,Rennes,"40,116",Stade Pierre-Mauroy,Amaury Delerue,2122010
+37,Sat,5/14/2022,21:00 (03:00),Saint-Étienne,1.7,1–2,2.5,Reims,,Stade Geoffroy-Guichard,Clément Turpin,2122011
+37,Sat,5/14/2022,21:00 (03:00),Lyon,2.4,3–2,2.3,Nantes,"54,404",Groupama Stadium,Florent Batta,2122012
+37,Sat,5/14/2022,21:00 (03:00),Metz,0.6,1–0,0.6,Angers,"17,213",Stade Saint-Symphorien,Jérémie Pignard,2122013
+37,Sat,5/14/2022,21:00 (03:00),Strasbourg,1.2,1–0,1.1,Clermont Foot,"25,231",Stade de la Meinau,Benoît Millot,2122014
+37,Sat,5/14/2022,21:00 (03:00),Troyes,0.3,1–3,1.2,Lens,"19,000",Stade de l'Aube,François Letexier,2122015
+37,Sat,5/14/2022,21:00 (03:00),Monaco,4.1,4–2,1.8,Brest,"6,000",Stade Louis II.,Jérôme Brisard,2122016
+37,Sat,5/14/2022,21:00 (03:00),Rennes,1.6,2–0,0.9,Marseille,"28,811",Roazhon Park,Benoît Bastien,2122017
+37,Sat,5/14/2022,21:00 (03:00),Montpellier,0.6,0–4,2.8,Paris S-G,"19,586",Stade de la Mosson,Jeremy Stinat,2122018
+37,Sat,5/14/2022,21:00 (03:00),Bordeaux,1.3,0–0,1.2,Lorient,"23,191",Stade Matmut-Atlantique,Ruddy Buquet,2122019
+37,Sat,5/14/2022,21:00 (03:00),Nice,1.9,1–3,2.1,Lille,"24,232",Stade de Nice,Thomas Léonard,2122020
+36,Wed,5/11/2022,21:00 (03:00),Nantes,1.3,2–1,2.1,Rennes,"26,359",Stade de la Beaujoire - Louis Fonteneau,Antony Gautier,2122021
+36,Wed,5/11/2022,19:00 (01:00),Nice,1.4,4–2,2.4,Saint-Étienne,"17,704",Stade de Nice,Ruddy Buquet,2122022
+36,Sun,5/8/2022,20:45 (02:45),Paris S-G,2.5,2–2,1.9,Troyes,"45,000",Parc des Princes,Jérôme Brisard,2122023
+36,Sun,5/8/2022,17:05 (23:05),Lorient,0.4,0–3,1.6,Marseille,"16,210",Stade Yves Allainmat - Le Moustoir,Bastien Dechepy,2122024
+36,Sun,5/8/2022,15:00 (21:00),Reims,0.9,1–2,2.3,Lens,"16,962",Stade Auguste-Delaune II,Vitor Ferreira Fernandes,2122025
+36,Sun,5/8/2022,15:00 (21:00),Angers,2.5,4–1,0.8,Bordeaux,"10,852",Stade Raymond Kopa,Benoît Millot,2122026
+36,Sun,5/8/2022,15:00 (21:00),Clermont Foot,2.4,2–1,1.4,Montpellier,"11,587",Stade Gabriel Montpied,Benoît Bastien,2122027
+36,Sun,5/8/2022,13:00 (19:00),Metz,2,3–2,2.4,Lyon,"20,405",Stade Saint-Symphorien,Eric Wattellier,2122028
+36,Sat,5/7/2022,17:00 (23:00),Brest,0.6,0–1,3.1,Strasbourg,"12,093",Stade Francis-Le Blé,Mikael Lesage,2122029
+36,Fri,5/6/2022,21:00 (03:00),Lille,1.5,1–2,0.5,Monaco,"39,088",Stade Pierre-Mauroy,François Letexier,2122030
+35,Sun,5/1/2022,20:45 (02:45),Marseille,1.2,0–3,2.4,Lyon,"68,784",Orange Vélodrome,Antony Gautier,2122031
+35,Sun,5/1/2022,17:05 (23:05),Bordeaux,0.3,0–1,2.7,Nice,"23,552",Stade Matmut-Atlantique,Johan Hamel,2122032
+35,Sun,5/1/2022,15:00 (21:00),Lorient,2,1–2,2.2,Reims,"12,216",Stade Yves Allainmat - Le Moustoir,Pierre Gaillouste,2122033
+35,Sun,5/1/2022,15:00 (21:00),Montpellier,2.1,2–2,1.6,Metz,"10,446",Stade de la Mosson,Clément Turpin,2122034
+35,Sun,5/1/2022,15:00 (21:00),Monaco,3.2,2–0,0.7,Angers,"4,616",Stade Louis II.,Hakim Ben El Hadj Salem,2122035
+35,Sun,5/1/2022,15:00 (21:00),Brest,1.7,2–0,1.5,Clermont Foot,"10,592",Stade Francis-Le Blé,Romain Lissorgue,2122036
+35,Sun,5/1/2022,13:00 (19:00),Troyes,2.9,3–0,0.4,Lille,"10,497",Stade de l'Aube,Willy Delajod,2122037
+35,Sat,4/30/2022,21:00 (03:00),Rennes,1.8,2–0,0.8,Saint-Étienne,"27,390",Roazhon Park,Jeremy Stinat,2122038
+35,Sat,4/30/2022,17:00 (23:00),Lens,2.9,2–2,2.1,Nantes,"36,727",Stade Bollaert-Delelis,Thomas Léonard,2122039
+35,Fri,4/29/2022,21:00 (03:00),Strasbourg,1.9,3–3,3,Paris S-G,"26,052",Stade de la Meinau,Ruddy Buquet,2122040
+34,Sun,4/24/2022,20:45 (02:45),Reims,0.7,0–1,0.9,Marseille,"20,835",Stade Auguste-Delaune II,Jérôme Brisard,2122041
+34,Sun,4/24/2022,17:05 (23:05),Lille,0.8,1–0,1.2,Strasbourg,"30,211",Stade Pierre-Mauroy,Jérémie Pignard,2122042
+34,Sun,4/24/2022,15:00 (21:00),Clermont Foot,2.1,2–2,1.7,Angers,"11,531",Stade Gabriel Montpied,Stéphanie Frappart,2122043
+34,Sun,4/24/2022,15:00 (21:00),Nice,2.3,1–0,0.4,Troyes,"17,065",Stade de Nice,Hakim Ben El Hadj Salem,2122044
+34,Sun,4/24/2022,15:00 (21:00),Nantes,2.1,5–3,2.8,Bordeaux,"30,000",Stade de la Beaujoire - Louis Fonteneau,Clément Turpin,2122045
+34,Sun,4/24/2022,15:00 (21:00),Metz,0.6,0–1,2,Brest,"19,874",Stade Saint-Symphorien,Florent Batta,2122046
+34,Sun,4/24/2022,13:00 (19:00),Rennes,2,5–0,0.8,Lorient,"28,324",Roazhon Park,Benoît Millot,2122047
+34,Sat,4/23/2022,21:00 (03:00),Paris S-G,2.5,1–1,0.8,Lens,"47,000",Parc des Princes,Amaury Delerue,2122048
+34,Sat,4/23/2022,19:00 (01:00),Saint-Étienne,1.1,1–4,3.1,Monaco,"30,018",Stade Geoffroy-Guichard,Bastien Dechepy,2122049
+34,Sat,4/23/2022,17:00 (23:00),Lyon,4.4,5–2,2.1,Montpellier,"46,608",Groupama Stadium,François Letexier,2122050
+33,Wed,4/20/2022,21:00 (03:00),Marseille,2,3–2,0.6,Nantes,"55,890",Orange Vélodrome,Ruddy Buquet,2122051
+33,Wed,4/20/2022,21:00 (03:00),Brest,0.9,2–1,3,Lyon,"14,028",Stade Francis-Le Blé,Jeremy Stinat,2122052
+33,Wed,4/20/2022,21:00 (03:00),Lens,1.3,2–0,0.8,Montpellier,"36,250",Stade Bollaert-Delelis,Romain Lissorgue,2122053
+33,Wed,4/20/2022,21:00 (03:00),Strasbourg,2.8,2–1,1.2,Rennes,"25,148",Stade de la Meinau,Willy Delajod,2122054
+33,Wed,4/20/2022,21:00 (03:00),Angers,0.8,0–3,2.1,Paris S-G,"13,000",Stade Raymond Kopa,Johan Hamel,2122055
+33,Wed,4/20/2022,19:00 (01:00),Troyes,1.5,0–1,0.3,Clermont Foot,"7,800",Stade de l'Aube,Jérémie Pignard,2122056
+33,Wed,4/20/2022,19:00 (01:00),Lorient,2,1–0,1.8,Metz,"13,544",Stade Yves Allainmat - Le Moustoir,Mikael Lesage,2122057
+33,Wed,4/20/2022,19:00 (01:00),Bordeaux,1.2,2–2,1.2,Saint-Étienne,"38,515",Stade Matmut-Atlantique,Benoît Bastien,2122058
+33,Wed,4/20/2022,19:00 (01:00),Monaco,2.3,1–0,1,Nice,"10,247",Stade Louis II.,Benoît Millot,2122059
+33,Wed,4/20/2022,19:00 (01:00),Reims,1.7,2–1,1.3,Lille,"10,910",Stade Auguste-Delaune II,Hakim Ben El Hadj Salem,2122060
+32,Sun,4/17/2022,20:45 (02:45),Paris S-G,0.8,2–1,0.9,Marseille,"46,000",Parc des Princes,François Letexier,2122061
+32,Sun,4/17/2022,17:05 (23:05),Lyon,2.4,6–1,1.8,Bordeaux,"38,713",Groupama Stadium,Florent Batta,2122062
+32,Sun,4/17/2022,15:00 (21:00),Troyes,1.5,1–1,1.1,Strasbourg,"10,000",Stade de l'Aube,Benoît Millot,2122063
+32,Sun,4/17/2022,15:00 (21:00),Montpellier,1.4,0–0,1.3,Reims,"10,170",Stade de la Mosson,Antony Gautier,2122064
+32,Sun,4/17/2022,15:00 (21:00),Metz,0.4,1–1,3.4,Clermont Foot,"14,335",Stade Saint-Symphorien,Pierre Gaillouste,2122065
+32,Sun,4/17/2022,15:00 (21:00),Nantes,3.4,1–1,0.9,Angers,"25,102",Stade de la Beaujoire - Louis Fonteneau,Bastien Dechepy,2122066
+32,Sun,4/17/2022,13:00 (19:00),Nice,1.9,2–1,0.4,Lorient,"17,212",Stade de Nice,Amaury Delerue,2122067
+32,Sat,4/16/2022,21:00 (03:00),Lille,1.1,1–2,1.4,Lens,"48,169",Stade Pierre-Mauroy,Jérôme Brisard,2122068
+32,Sat,4/16/2022,17:00 (23:00),Saint-Étienne,1.3,2–1,0.6,Brest,"27,227",Stade Geoffroy-Guichard,Eric Wattellier,2122069
+32,Fri,4/15/2022,21:00 (03:00),Rennes,1.7,2–3,2.8,Monaco,"28,336",Roazhon Park,Stéphanie Frappart,2122070
+31,Sun,4/10/2022,21:00 (03:00),Marseille,3.1,2–0,0.5,Montpellier,"51,131",Orange Vélodrome,Jeremy Stinat,2122071
+31,Sun,4/10/2022,19:00 (01:00),Strasbourg,1.2,1–1,2,Lyon,"26,073",Stade de la Meinau,Clément Turpin,2122072
+31,Sun,4/10/2022,17:05 (23:05),Lens,0.6,3–0,1.6,Nice,"36,668",Stade Bollaert-Delelis,Willy Delajod,2122073
+31,Sun,4/10/2022,15:00 (21:00),Brest,1.4,1–1,1.1,Nantes,"13,145",Stade Francis-Le Blé,Johan Hamel,2122074
+31,Sun,4/10/2022,15:00 (21:00),Angers,0.8,1–1,1.1,Lille,"9,286",Stade Raymond Kopa,Thomas Léonard,2122075
+31,Sun,4/10/2022,15:00 (21:00),Monaco,0.7,2–1,0.9,Troyes,"4,786",Stade Louis II.,Mikael Lesage,2122076
+31,Sun,4/10/2022,13:00 (19:00),Bordeaux,1.9,3–1,1,Metz,"21,652",Stade Matmut-Atlantique,Jérémie Pignard,2122077
+31,Sat,4/9/2022,21:00 (03:00),Clermont Foot,1.4,1–6,4.6,Paris S-G,"12,264",Stade Gabriel Montpied,Eric Wattellier,2122078
+31,Sat,4/9/2022,17:00 (23:00),Reims,2.7,2–3,1.8,Rennes,"10,243",Stade Auguste-Delaune II,Romain Lissorgue,2122079
+31,Fri,4/8/2022,21:00 (03:00),Lorient,4,6–2,1.2,Saint-Étienne,"15,407",Stade Yves Allainmat - Le Moustoir,Ruddy Buquet,2122080
+30,Sun,4/3/2022,20:45 (02:45),Paris S-G,2.4,5–1,0.7,Lorient,"40,000",Parc des Princes,Hakim Ben El Hadj Salem,2122081
+30,Sun,4/3/2022,17:05 (23:05),Lyon,1.7,3–2,1.7,Angers,"34,376",Groupama Stadium,Eric Wattellier,2122082
+30,Sun,4/3/2022,15:00 (21:00),Clermont Foot,0.9,2–3,1.8,Nantes,"11,785",Stade Gabriel Montpied,Mikael Lesage,2122083
+30,Sun,4/3/2022,15:00 (21:00),Montpellier,1.5,1–2,0.9,Brest,"10,929",Stade de la Mosson,Florent Batta,2122084
+30,Sun,4/3/2022,15:00 (21:00),Troyes,1.3,1–0,0.8,Reims,"9,482",Stade de l'Aube,Ruddy Buquet,2122085
+30,Sun,4/3/2022,15:00 (21:00),Saint-Étienne,0.2,2–4,3.9,Marseille,"41,278",Stade Geoffroy-Guichard,Clément Turpin,2122086
+30,Sun,4/3/2022,15:00 (21:00),Metz,1.1,1–2,2.1,Monaco,"19,812",Stade Saint-Symphorien,Jérôme Brisard,2122087
+30,Sun,4/3/2022,13:00 (19:00),Strasbourg,2.8,1–0,1.1,Lens,"26,005",Stade de la Meinau,François Letexier,2122088
+30,Sat,4/2/2022,19:00 (01:00),Lille,3,0–0,0.1,Bordeaux,"36,351",Stade Pierre-Mauroy,Bastien Dechepy,2122089
+30,Sat,4/2/2022,17:00 (23:00),Nice,1.3,1–1,1.3,Rennes,"24,086",Stade de Nice,Benoît Bastien,2122090
+29,Sun,3/20/2022,20:45 (03:45),Marseille,1.6,2–1,1.3,Nice,"64,722",Orange Vélodrome,Jérôme Brisard,2122091
+29,Sun,3/20/2022,17:05 (00:05),Reims,0.5,0–0,2.2,Lyon,"14,091",Stade Auguste-Delaune II,Johan Hamel,2122092
+29,Sun,3/20/2022,15:00 (22:00),Lorient,0.6,0–0,1.5,Strasbourg,"9,806",Stade Yves Allainmat - Le Moustoir,Benoît Millot,2122093
+29,Sun,3/20/2022,15:00 (22:00),Bordeaux,4,0–2,0.7,Montpellier,"15,000",Stade Matmut-Atlantique,Thomas Léonard,2122094
+29,Sun,3/20/2022,15:00 (22:00),Rennes,3.4,6–1,0.7,Metz,"27,966",Roazhon Park,Willy Delajod,2122095
+29,Sun,3/20/2022,15:00 (22:00),Angers,2.1,1–0,1.3,Brest,"7,734",Stade Raymond Kopa,Jérémie Pignard,2122096
+29,Sun,3/20/2022,13:00 (20:00),Monaco,2.3,3–0,1,Paris S-G,"16,642",Stade Louis II.,Benoît Bastien,2122097
+29,Sat,3/19/2022,21:00 (04:00),Nantes,1,0–1,1.3,Lille,"25,977",Stade de la Beaujoire - Louis Fonteneau,Pierre Gaillouste,2122098
+29,Sat,3/19/2022,17:00 (00:00),Lens,1.8,3–1,1.5,Clermont Foot,"36,182",Stade Bollaert-Delelis,Jeremy Stinat,2122099
+29,Fri,3/18/2022,21:00 (04:00),Saint-Étienne,1.4,1–1,1.2,Troyes,"32,193",Stade Geoffroy-Guichard,Romain Lissorgue,2122100
+28,Sun,3/13/2022,20:45 (03:45),Brest,0.7,1–4,2,Marseille,"14,611",Stade Francis-Le Blé,Ruddy Buquet,2122101
+28,Sun,3/13/2022,17:05 (00:05),Lyon,1.4,2–4,1.3,Rennes,"46,597",Groupama Stadium,Antony Gautier,2122102
+28,Sun,3/13/2022,15:00 (22:00),Angers,2.5,0–1,1.6,Reims,"5,960",Stade Raymond Kopa,Mikael Lesage,2122103
+28,Sun,3/13/2022,15:00 (22:00),Metz,0.7,0–0,0.8,Lens,"15,687",Stade Saint-Symphorien,Amaury Delerue,2122104
+28,Sun,3/13/2022,15:00 (22:00),Clermont Foot,1.1,0–2,1.5,Lorient,"11,359",Stade Gabriel Montpied,Bastien Dechepy,2122105
+28,Sun,3/13/2022,15:00 (22:00),Strasbourg,1,1–0,0.8,Monaco,"25,231",Stade de la Meinau,Eric Wattellier,2122106
+28,Sun,3/13/2022,13:00 (20:00),Paris S-G,1.1,3–0,0.9,Bordeaux,"44,000",Parc des Princes,François Letexier,2122107
+28,Sat,3/12/2022,21:00 (04:00),Troyes,1.9,1–0,0.5,Nantes,"7,400",Stade de l'Aube,Stéphanie Frappart,2122108
+28,Sat,3/12/2022,17:00 (00:00),Montpellier,3.2,0–0,0.7,Nice,"11,658",Stade de la Mosson,Clément Turpin,2122109
+28,Fri,3/11/2022,21:00 (04:00),Lille,1.1,0–0,0.6,Saint-Étienne,"40,146",Stade Pierre-Mauroy,Florent Batta,2122110
+27,Sun,3/6/2022,20:45 (03:45),Marseille,1.1,0–1,0.7,Monaco,"56,510",Orange Vélodrome,Antony Gautier,2122111
+27,Sun,3/6/2022,17:05 (00:05),Lille,2.1,4–0,0.9,Clermont Foot,"33,515",Stade Pierre-Mauroy,Thomas Léonard,2122112
+27,Sun,3/6/2022,15:00 (22:00),Bordeaux,0.7,0–2,2.4,Troyes,"20,287",Stade Matmut-Atlantique,Ruddy Buquet,2122113
+27,Sun,3/6/2022,15:00 (22:00),Rennes,2.1,2–0,0.5,Angers,"27,693",Roazhon Park,Benoît Millot,2122114
+27,Sun,3/6/2022,15:00 (22:00),Reims,0.8,1–1,0.9,Strasbourg,"10,405",Stade Auguste-Delaune II,Jérémie Pignard,2122115
+27,Sun,3/6/2022,15:00 (22:00),Nantes,1.8,2–0,0.2,Montpellier,"21,589",Stade de la Beaujoire - Louis Fonteneau,Hakim Ben El Hadj Salem,2122116
+27,Sun,3/6/2022,13:00 (20:00),Saint-Étienne,1.4,1–0,0.7,Metz,"35,706",Stade Geoffroy-Guichard,Jeremy Stinat,2122117
+27,Sat,3/5/2022,21:00 (04:00),Nice,1,1–0,0.8,Paris S-G,"31,949",Stade de Nice,Willy Delajod,2122118
+27,Sat,3/5/2022,17:00 (00:00),Lens,1.8,0–1,0.5,Brest,"36,305",Stade Bollaert-Delelis,Johan Hamel,2122119
+27,Fri,3/4/2022,21:00 (04:00),Lorient,1.7,1–4,2.6,Lyon,"13,497",Stade Yves Allainmat - Le Moustoir,Romain Lissorgue,2122120
+26,Sun,2/27/2022,20:45 (03:45),Lyon,1.7,0–1,0.8,Lille,"42,647",Groupama Stadium,Clément Turpin,2122121
+26,Sun,2/27/2022,17:05 (00:05),Troyes,1.4,1–1,1.2,Marseille,"16,871",Stade de l'Aube,François Letexier,2122122
+26,Sun,2/27/2022,15:00 (22:00),Brest,0.2,0–1,2.3,Lorient,"14,050",Stade Francis-Le Blé,Benoît Bastien,2122123
+26,Sun,2/27/2022,15:00 (22:00),Clermont Foot,0.7,1–1,1,Bordeaux,"12,032",Stade Gabriel Montpied,Eric Wattellier,2122124
+26,Sun,2/27/2022,15:00 (22:00),Metz,0.5,0–0,0.8,Nantes,"15,851",Stade Saint-Symphorien,Florent Batta,2122125
+26,Sun,2/27/2022,15:00 (22:00),Angers,0.7,1–2,0.6,Lens,"9,499",Stade Raymond Kopa,Thomas Léonard,2122126
+26,Sun,2/27/2022,13:00 (20:00),Monaco,1.9,1–2,1.4,Reims,"3,982",Stade Louis II.,Benoît Millot,2122127
+26,Sat,2/26/2022,21:00 (04:00),Paris S-G,2.6,3–1,1,Saint-Étienne,"45,000",Parc des Princes,Pierre Gaillouste,2122128
+26,Sat,2/26/2022,17:00 (00:00),Strasbourg,1.1,0–0,0.2,Nice,"25,150",Stade de la Meinau,Stéphanie Frappart,2122129
+26,Fri,2/25/2022,21:00 (04:00),Montpellier,1.1,2–4,2,Rennes,"10,000",Stade de la Mosson,Amaury Delerue,2122130
+25,Sun,2/20/2022,20:45 (03:45),Marseille,1.6,0–2,0.7,Clermont Foot,"53,840",Orange Vélodrome,Willy Delajod,2122131
+25,Sun,2/20/2022,17:05 (00:05),Bordeaux,0.6,1–1,1.6,Monaco,"29,557",Stade Matmut-Atlantique,Jérémie Pignard,2122132
+25,Sun,2/20/2022,15:00 (22:00),Lorient,0.9,0–1,0.5,Montpellier,"10,135",Stade Yves Allainmat - Le Moustoir,Jeremy Stinat,2122133
+25,Sun,2/20/2022,15:00 (22:00),Rennes,3.1,4–1,0.7,Troyes,"22,967",Roazhon Park,Clément Turpin,2122134
+25,Sun,2/20/2022,15:00 (22:00),Reims,0.8,1–1,2,Brest,"9,307",Stade Auguste-Delaune II,Hakim Ben El Hadj Salem,2122135
+25,Sun,2/20/2022,15:00 (22:00),Saint-Étienne,1.3,2–2,0.9,Strasbourg,"24,897",Stade Geoffroy-Guichard,Antony Gautier,2122136
+25,Sun,2/20/2022,13:00 (20:00),Nice,0.9,1–0,1,Angers,"18,257",Stade de Nice,Romain Lissorgue,2122137
+25,Sat,2/19/2022,21:00 (04:00),Nantes,2.5,3–1,3.9,Paris S-G,"35,500",Stade de la Beaujoire - Louis Fonteneau,Mikael Lesage,2122138
+25,Sat,2/19/2022,17:00 (00:00),Lens,1.1,1–1,1.3,Lyon,"36,624",Stade Bollaert-Delelis,Jérôme Brisard,2122139
+25,Fri,2/18/2022,21:00 (04:00),Lille,1.8,0–0,0.4,Metz,"30,384",Stade Pierre-Mauroy,Bastien Dechepy,2122140
+24,Sun,2/13/2022,20:45 (03:45),Metz,0.8,1–2,1.6,Marseille,"25,482",Stade Saint-Symphorien,Eric Wattellier,2122141
+24,Sun,2/13/2022,17:05 (00:05),Lens,2.1,3–2,0.9,Bordeaux,"32,662",Stade Bollaert-Delelis,François Letexier,2122142
+24,Sun,2/13/2022,15:00 (22:00),Clermont Foot,0.8,1–2,0.8,Saint-Étienne,"12,131",Stade Gabriel Montpied,Ruddy Buquet,2122143
+24,Sun,2/13/2022,15:00 (22:00),Nantes,0.7,1–0,0.7,Reims,"14,304",Stade de la Beaujoire - Louis Fonteneau,Johan Hamel,2122144
+24,Sun,2/13/2022,15:00 (22:00),Brest,3,5–1,0.4,Troyes,"10,600",Stade Francis-Le Blé,Florent Batta,2122145
+24,Sun,2/13/2022,15:00 (22:00),Angers,0.8,0–1,0.3,Strasbourg,"6,521",Stade Raymond Kopa,Pierre Gaillouste,2122146
+24,Sun,2/13/2022,13:00 (20:00),Monaco,1.4,0–0,0.2,Lorient,"3,963",Stade Louis II.,Bastien Dechepy,2122147
+24,Sat,2/12/2022,21:00 (04:00),Lyon,2.7,2–0,0.1,Nice,"41,974",Groupama Stadium,Benoît Millot,2122148
+24,Sat,2/12/2022,17:00 (00:00),Montpellier,1.1,0–1,1.5,Lille,"11,784",Stade de la Mosson,Stéphanie Frappart,2122149
+24,Fri,2/11/2022,21:00 (04:00),Paris S-G,1.2,1–0,1,Rennes,"47,000",Parc des Princes,Benoît Bastien,2122150
+23,Sun,2/6/2022,20:45 (03:45),Lille,1.4,1–5,3.6,Paris S-G,"48,437",Stade Pierre-Mauroy,François Letexier,2122151
+23,Sun,2/6/2022,17:00 (00:00),Rennes,2.4,2–0,0.3,Brest,"25,409",Roazhon Park,Johan Hamel,2122152
+23,Sun,2/6/2022,15:00 (22:00),Strasbourg,1.8,1–0,0.6,Nantes,"22,240",Stade de la Meinau,Amaury Delerue,2122153
+23,Sun,2/6/2022,15:00 (22:00),Troyes,0.7,0–0,0.5,Metz,"7,227",Stade de l'Aube,Pierre Gaillouste,2122154
+23,Sun,2/6/2022,15:00 (22:00),Nice,1.2,0–1,1.6,Clermont Foot,"18,022",Stade de Nice,Jérôme Brisard,2122155
+23,Sun,2/6/2022,15:00 (22:00),Reims,2.3,5–0,0.2,Bordeaux,"8,858",Stade Auguste-Delaune II,Antony Gautier,2122156
+23,Sun,2/6/2022,13:00 (20:00),Lorient,1.6,2–0,0.6,Lens,"10,687",Stade Yves Allainmat - Le Moustoir,Romain Lissorgue,2122157
+23,Sat,2/5/2022,21:00 (04:00),Monaco,2.3,2–0,1.6,Lyon,"6,550",Stade Louis II.,Ruddy Buquet,2122158
+23,Sat,2/5/2022,17:00 (00:00),Saint-Étienne,2.3,3–1,0.5,Montpellier,"20,000",Stade Geoffroy-Guichard,Thomas Léonard,2122159
+23,Fri,2/4/2022,21:00 (04:00),Marseille,2.6,5–2,0.5,Angers,"60,000",Orange Vélodrome,Jeremy Stinat,2122160
+14,Tue,2/1/2022,21:00 (04:00),Lyon,1.1,2–1,0.7,Marseille,,Groupama Stadium,Benoît Bastien,2122161
+20,Wed,1/26/2022,19:00 (02:00),Angers,0.4,0–1,0.6,Saint-Étienne,,Stade Raymond Kopa,Clément Turpin,2122162
+22,Sun,1/23/2022,20:45 (03:45),Paris S-G,2.6,4–0,0.6,Reims,"5,000",Parc des Princes,Eric Wattellier,2122163
+22,Sun,1/23/2022,17:05 (00:05),Montpellier,2,3–2,1.3,Monaco,"5,000",Stade de la Mosson,Jérémie Pignard,2122164
+22,Sun,1/23/2022,15:00 (22:00),Bordeaux,2.1,4–3,1.9,Strasbourg,"3,308",Stade Matmut-Atlantique,Mikael Lesage,2122165
+22,Sun,1/23/2022,15:00 (22:00),Angers,2.5,2–1,1.4,Troyes,"5,000",Stade Raymond Kopa,Romain Lissorgue,2122166
+22,Sun,1/23/2022,15:00 (22:00),Nantes,1.1,4–2,1.9,Lorient,"4,275",Stade de la Beaujoire - Louis Fonteneau,Pierre Gaillouste,2122167
+22,Sun,1/23/2022,15:00 (22:00),Clermont Foot,1.3,2–1,1.7,Rennes,"4,535",Stade Gabriel Montpied,Thomas Léonard,2122168
+22,Sun,1/23/2022,13:00 (20:00),Metz,0.4,0–2,2.1,Nice,"5,000",Stade Saint-Symphorien,Amaury Delerue,2122169
+22,Sat,1/22/2022,21:00 (04:00),Lens,0.8,0–2,1.5,Marseille,"5,000",Stade Bollaert-Delelis,Stéphanie Frappart,2122170
+22,Sat,1/22/2022,17:00 (00:00),Brest,1.3,2–0,1.7,Lille,"4,358",Stade Francis-Le Blé,Jérôme Brisard,2122171
+22,Fri,1/21/2022,21:00 (04:00),Lyon,2.4,1–0,0.2,Saint-Étienne,"5,000",Groupama Stadium,Antony Gautier,2122172
+19,Wed,1/19/2022,19:00 (02:00),Clermont Foot,0.9,0–2,1.7,Strasbourg,"4,219",Stade Gabriel Montpied,Bastien Dechepy,2122173
+20,Wed,1/19/2022,19:00 (02:00),Lille,1.6,3–1,1.4,Lorient,"4,834",Stade Pierre-Mauroy,Florent Batta,2122174
+20,Wed,1/19/2022,19:00 (02:00),Montpellier,0.8,0–1,0.8,Troyes,"4,943",Stade de la Mosson,Jeremy Stinat,2122175
+21,Sun,1/16/2022,20:45 (03:45),Marseille,1.9,1–1,0.9,Lille,"5,034",Orange Vélodrome,Amaury Delerue,2122176
+21,Sun,1/16/2022,17:05 (00:05),Troyes,0.4,0–1,2.7,Lyon,"4,224",Stade de l'Aube,Jérôme Brisard,2122177
+21,Sun,1/16/2022,15:00 (22:00),Strasbourg,2,3–1,0.8,Montpellier,"5,217",Stade de la Meinau,Pierre Gaillouste,2122178
+21,Sun,1/16/2022,15:00 (22:00),Lorient,0.7,0–0,0.6,Angers,"4,387",Stade Yves Allainmat - Le Moustoir,Johan Hamel,2122179
+21,Sun,1/16/2022,15:00 (22:00),Monaco,3.7,4–0,0.5,Clermont Foot,"2,633",Stade Louis II.,Jeremy Stinat,2122180
+21,Sun,1/16/2022,15:00 (22:00),Reims,0.7,0–1,1.1,Metz,"3,923",Stade Auguste-Delaune II,Jérémie Pignard,2122181
+21,Sun,1/16/2022,13:00 (20:00),Rennes,3.5,6–0,0.7,Bordeaux,"4,951",Roazhon Park,Bastien Dechepy,2122182
+21,Sat,1/15/2022,21:00 (04:00),Paris S-G,2.7,2–0,0.8,Brest,"4,925",Parc des Princes,Mikael Lesage,2122183
+21,Sat,1/15/2022,17:00 (00:00),Saint-Étienne,1.4,1–2,1.3,Lens,"5,000",Stade Geoffroy-Guichard,François Letexier,2122184
+21,Fri,1/14/2022,21:00 (04:00),Nice,2.1,2–1,1.2,Nantes,"5,000",Stade de Nice,Ruddy Buquet,2122185
+20,Sun,1/9/2022,20:45 (03:45),Lyon,1.3,1–1,1.8,Paris S-G,"4,977",Groupama Stadium,François Letexier,2122186
+20,Sun,1/9/2022,17:05 (00:05),Nantes,0.6,0–0,0.8,Monaco,"4,133",Stade de la Beaujoire - Louis Fonteneau,Thomas Léonard,2122187
+20,Sun,1/9/2022,15:00 (22:00),Clermont Foot,0.9,0–0,0.9,Reims,"4,923",Stade Gabriel Montpied,Romain Lissorgue,2122188
+20,Sun,1/9/2022,15:00 (22:00),Metz,0.4,0–2,2.8,Strasbourg,"5,000",Stade Saint-Symphorien,Antony Gautier,2122189
+20,Sun,1/9/2022,13:00 (20:00),Brest,1.9,0–3,1.6,Nice,"5,102",Stade Francis-Le Blé,Stéphanie Frappart,2122190
+20,Sat,1/8/2022,21:00 (04:00),Lens,0.9,1–0,0.5,Rennes,"5,000",Stade Bollaert-Delelis,Benoît Bastien,2122191
+20,Fri,1/7/2022,21:00 (04:00),Bordeaux,0.6,0–1,2.3,Marseille,,Stade Matmut-Atlantique,Eric Wattellier,2122192
+19,Wed,12/22/2021,21:00 (04:00),Bordeaux,1,2–3,1.4,Lille,"39,967",Stade Matmut-Atlantique,Mikael Lesage,2122193
+19,Wed,12/22/2021,21:00 (04:00),Troyes,1.3,1–1,0.9,Brest,"6,872",Stade de l'Aube,Johan Hamel,2122194
+19,Wed,12/22/2021,21:00 (04:00),Montpellier,1.3,4–1,0.7,Angers,"10,990",Stade de la Mosson,Hugo Miguel,2122195
+19,Wed,12/22/2021,21:00 (04:00),Marseille,1.7,1–1,0.7,Reims,"55,908",Orange Vélodrome,François Letexier,2122196
+19,Wed,12/22/2021,21:00 (04:00),Monaco,1.9,2–1,1.4,Rennes,"5,354",Stade Louis II.,Ruddy Buquet,2122197
+19,Wed,12/22/2021,21:00 (04:00),Nice,0.8,2–1,1.3,Lens,"22,065",Stade de Nice,Jérôme Brisard,2122198
+19,Wed,12/22/2021,21:00 (04:00),Lorient,1.8,1–1,2,Paris S-G,"16,603",Stade Yves Allainmat - Le Moustoir,Jérémie Pignard,2122199
+19,Wed,12/22/2021,21:00 (04:00),Saint-Étienne,1.2,0–1,0.9,Nantes,"23,681",Stade Geoffroy-Guichard,Clément Turpin,2122200
+19,Wed,12/22/2021,21:00 (04:00),Lyon,2.5,1–1,0.7,Metz,"34,867",Groupama Stadium,Pierre Gaillouste,2122201
+18,Sun,12/12/2021,20:45 (03:45),Paris S-G,1.8,2–0,0.9,Monaco,"41,154",Parc des Princes,Benoît Bastien,2122202
+18,Sun,12/12/2021,17:00 (00:00),Strasbourg,2,0–2,1,Marseille,"26,028",Stade de la Meinau,Mikael Lesage,2122203
+18,Sun,12/12/2021,15:00 (22:00),Metz,0.9,4–1,1.4,Lorient,"14,037",Stade Saint-Symphorien,Eric Wattellier,2122204
+18,Sun,12/12/2021,15:00 (22:00),Troyes,1.8,1–2,1.1,Bordeaux,"7,950",Stade de l'Aube,Romain Lissorgue,2122205
+18,Sun,12/12/2021,15:00 (22:00),Rennes,1.8,1–2,1.6,Nice,"27,892",Roazhon Park,Willy Delajod,2122206
+18,Sun,12/12/2021,15:00 (22:00),Angers,1.7,0–1,1.9,Clermont Foot,"8,149",Stade Raymond Kopa,Jeremy Stinat,2122207
+18,Sun,12/12/2021,13:00 (20:00),Lille,1.5,0–0,0.5,Lyon,"40,248",Stade Pierre-Mauroy,Amaury Delerue,2122208
+18,Sat,12/11/2021,21:00 (04:00),Reims,2.5,2–0,0.3,Saint-Étienne,"12,019",Stade Auguste-Delaune II,Pierre Gaillouste,2122209
+18,Sat,12/11/2021,17:00 (00:00),Brest,1.2,0–4,1.7,Montpellier,"13,111",Stade Francis-Le Blé,Benoît Millot,2122210
+18,Fri,12/10/2021,21:00 (04:00),Nantes,1.5,3–2,0.9,Lens,"21,890",Stade de la Beaujoire - Louis Fonteneau,Stéphanie Frappart,2122211
+17,Sun,12/5/2021,20:45 (03:45),Bordeaux,2.7,2–2,2.5,Lyon,"25,210",Stade Matmut-Atlantique,Jérôme Brisard,2122212
+17,Sun,12/5/2021,17:00 (00:00),Nice,1.3,0–3,2.5,Strasbourg,"16,220",Stade de Nice,Jérémie Pignard,2122213
+17,Sun,12/5/2021,15:00 (22:00),Lorient,1.1,0–1,0.2,Nantes,"16,025",Stade Yves Allainmat - Le Moustoir,Ruddy Buquet,2122214
+17,Sun,12/5/2021,15:00 (22:00),Reims,1.1,1–2,1.8,Angers,"8,238",Stade Auguste-Delaune II,Johan Hamel,2122215
+17,Sun,12/5/2021,15:00 (22:00),Monaco,1.8,4–0,0.6,Metz,"4,923",Stade Louis II.,Bastien Dechepy,2122216
+17,Sun,12/5/2021,15:00 (22:00),Montpellier,1,1–0,0.6,Clermont Foot,"9,643",Stade de la Mosson,Florent Batta,2122217
+17,Sun,12/5/2021,13:00 (20:00),Saint-Étienne,0.6,0–5,2.7,Rennes,"11,257",Stade Geoffroy-Guichard,Thomas Léonard,2122218
+17,Sat,12/4/2021,21:00 (04:00),Lens,1.3,1–1,2.1,Paris S-G,"36,685",Stade Bollaert-Delelis,François Letexier,2122219
+17,Sat,12/4/2021,19:00 (02:00),Lille,1.4,2–1,0.4,Troyes,"28,286",Stade Pierre-Mauroy,Benoît Bastien,2122220
+17,Sat,12/4/2021,17:00 (00:00),Marseille,2,1–2,1.5,Brest,"54,413",Orange Vélodrome,Antony Gautier,2122221
+16,Wed,12/1/2021,21:00 (04:00),Clermont Foot,2.1,2–2,1.1,Lens,"11,948",Stade Gabriel Montpied,Amaury Delerue,2122222
+16,Wed,12/1/2021,21:00 (04:00),Lyon,2.5,1–2,1.3,Reims,,Groupama Stadium,Benoît Millot,2122223
+16,Wed,12/1/2021,21:00 (04:00),Paris S-G,2,0–0,1,Nice,"47,502",Parc des Princes,Clément Turpin,2122224
+16,Wed,12/1/2021,21:00 (04:00),Nantes,0.1,0–1,1,Marseille,"34,018",Stade de la Beaujoire - Louis Fonteneau,Eric Wattellier,2122225
+16,Wed,12/1/2021,21:00 (04:00),Rennes,1,1–2,0.7,Lille,"25,392",Roazhon Park,Stéphanie Frappart,2122226
+16,Wed,12/1/2021,19:00 (02:00),Metz,1.4,1–3,1.5,Montpellier,"13,992",Stade Saint-Symphorien,Ruddy Buquet,2122227
+16,Wed,12/1/2021,19:00 (02:00),Brest,1.5,1–0,0.8,Saint-Étienne,"13,248",Stade Francis-Le Blé,Mikael Lesage,2122228
+16,Wed,12/1/2021,19:00 (02:00),Strasbourg,3,5–2,1.1,Bordeaux,"24,378",Stade de la Meinau,Willy Delajod,2122229
+16,Wed,12/1/2021,19:00 (02:00),Troyes,1.1,2–0,0.7,Lorient,"6,506",Stade de l'Aube,Jeremy Stinat,2122230
+16,Wed,12/1/2021,19:00 (02:00),Angers,1.3,1–3,3,Monaco,"8,267",Stade Raymond Kopa,Romain Lissorgue,2122231
+15,Sun,11/28/2021,20:45 (03:45),Marseille,1.5,1–0,0.2,Troyes,,Orange Vélodrome,Jérémie Pignard,2122232
+15,Sun,11/28/2021,17:00 (00:00),Montpellier,1.3,0–1,1,Lyon,"14,747",Stade de la Mosson,Thomas Léonard,2122233
+15,Sun,11/28/2021,15:00 (22:00),Monaco,2,1–1,1.1,Strasbourg,"3,478",Stade Louis II.,Antony Gautier,2122234
+15,Sun,11/28/2021,15:00 (22:00),Bordeaux,1.5,1–2,2.4,Brest,"15,280",Stade Matmut-Atlantique,Pierre Gaillouste,2122235
+15,Sun,11/28/2021,15:00 (22:00),Lorient,0.7,0–2,1.2,Rennes,"16,321",Stade Yves Allainmat - Le Moustoir,Bastien Dechepy,2122236
+15,Sun,11/28/2021,15:00 (22:00),Reims,0.8,1–0,0.4,Clermont Foot,"8,420",Stade Auguste-Delaune II,Benoît Bastien,2122237
+15,Sun,11/28/2021,13:00 (20:00),Saint-Étienne,0.9,1–3,2.6,Paris S-G,"24,586",Stade Geoffroy-Guichard,Jérôme Brisard,2122238
+15,Sat,11/27/2021,21:00 (04:00),Nice,1.5,0–1,0.6,Metz,"17,033",Stade de Nice,François Letexier,2122239
+15,Sat,11/27/2021,17:00 (00:00),Lille,1.4,1–1,0.5,Nantes,"30,419",Stade Pierre-Mauroy,Johan Hamel,2122240
+15,Fri,11/26/2021,21:00 (04:00),Lens,1.4,2–2,1.8,Angers,"35,713",Stade Bollaert-Delelis,Florent Batta,2122241
+14,Sun,11/21/2021,17:00 (00:00),Clermont Foot,0.9,1–2,0.8,Nice,"11,683",Stade Gabriel Montpied,Stéphanie Frappart,2122242
+14,Sun,11/21/2021,15:00 (22:00),Strasbourg,2.3,1–1,1.1,Reims,"24,439",Stade de la Meinau,Amaury Delerue,2122243
+14,Sun,11/21/2021,15:00 (22:00),Troyes,1.4,0–1,1.5,Saint-Étienne,"10,644",Stade de l'Aube,Florent Batta,2122244
+14,Sun,11/21/2021,15:00 (22:00),Angers,1.5,1–0,0.7,Lorient,"6,971",Stade Raymond Kopa,Pierre Gaillouste,2122245
+14,Sun,11/21/2021,15:00 (22:00),Metz,1.4,3–3,2.4,Bordeaux,"16,077",Stade Saint-Symphorien,Benoît Millot,2122246
+14,Sun,11/21/2021,13:00 (20:00),Brest,1.4,4–0,1.1,Lens,"12,462",Stade Francis-Le Blé,Eric Wattellier,2122247
+14,Sat,11/20/2021,21:00 (04:00),Rennes,3.5,2–0,0.4,Montpellier,"27,003",Roazhon Park,Mikael Lesage,2122248
+14,Sat,11/20/2021,17:00 (00:00),Paris S-G,2,3–1,1.5,Nantes,"47,777",Parc des Princes,Jeremy Stinat,2122249
+14,Fri,11/19/2021,21:00 (04:00),Monaco,1.6,2–2,2.4,Lille,"3,778",Stade Louis II.,Willy Delajod,2122250
+13,Sun,11/7/2021,20:45 (03:45),Rennes,3.7,4–1,1.2,Lyon,"28,222",Roazhon Park,Benoît Bastien,2122251
+13,Sun,11/7/2021,17:00 (00:00),Nice,1.6,0–1,0.5,Montpellier,"20,157",Stade de Nice,Antony Gautier,2122252
+13,Sun,11/7/2021,15:00 (22:00),Nantes,2.7,2–2,2.3,Strasbourg,"18,853",Stade de la Beaujoire - Louis Fonteneau,Clément Turpin,2122253
+13,Sun,11/7/2021,15:00 (22:00),Reims,0.5,0–0,0.9,Monaco,"12,080",Stade Auguste-Delaune II,Jérémie Pignard,2122254
+13,Sun,11/7/2021,15:00 (22:00),Lorient,1.6,1–2,2.6,Brest,"14,649",Stade Yves Allainmat - Le Moustoir,Romain Lissorgue,2122255
+13,Sun,11/7/2021,15:00 (22:00),Saint-Étienne,2,3–2,0.9,Clermont Foot,,Stade Geoffroy-Guichard,Pierre Gaillouste,2122256
+13,Sun,11/7/2021,13:00 (20:00),Marseille,1.7,0–0,1.5,Metz,"61,539",Orange Vélodrome,Jérôme Brisard,2122257
+13,Sat,11/6/2021,21:00 (04:00),Bordeaux,1.2,2–3,2,Paris S-G,"41,172",Stade Matmut-Atlantique,Ruddy Buquet,2122258
+13,Sat,11/6/2021,17:00 (00:00),Lille,1.4,1–1,1.1,Angers,"33,305",Stade Pierre-Mauroy,François Letexier,2122259
+13,Fri,11/5/2021,21:00 (04:00),Lens,3.3,4–0,0.6,Troyes,"35,706",Stade Bollaert-Delelis,Thomas Léonard,2122260
+12,Sun,10/31/2021,20:45 (03:45),Clermont Foot,0.8,0–1,1.3,Marseille,"12,240",Stade Gabriel Montpied,Benoît Millot,2122261
+12,Sun,10/31/2021,17:00 (00:00),Brest,1.4,2–0,0.5,Monaco,"12,463",Stade Francis-Le Blé,Johan Hamel,2122262
+12,Sun,10/31/2021,15:00 (22:00),Strasbourg,2.3,4–0,1.5,Lorient,"24,002",Stade de la Meinau,Florent Batta,2122263
+12,Sun,10/31/2021,15:00 (22:00),Montpellier,1.3,2–0,1.1,Nantes,"11,267",Stade de la Mosson,Bastien Dechepy,2122264
+12,Sun,10/31/2021,15:00 (22:00),Troyes,2.1,2–2,1.9,Rennes,"8,550",Stade de l'Aube,Jeremy Stinat,2122265
+12,Sun,10/31/2021,15:00 (22:00),Bordeaux,1.9,3–2,1.6,Reims,"11,020",Stade Matmut-Atlantique,Eric Wattellier,2122266
+12,Sun,10/31/2021,13:00 (20:00),Angers,1.1,1–2,1.1,Nice,"6,788",Stade Raymond Kopa,Willy Delajod,2122267
+12,Sat,10/30/2021,21:00 (03:00),Lyon,2.3,2–1,2.3,Lens,"50,373",Groupama Stadium,Mikael Lesage,2122268
+12,Sat,10/30/2021,17:00 (23:00),Metz,0.5,1–1,0.6,Saint-Étienne,"15,914",Stade Saint-Symphorien,Stéphanie Frappart,2122269
+12,Fri,10/29/2021,21:00 (03:00),Paris S-G,2.3,2–1,2,Lille,"47,874",Parc des Princes,Amaury Delerue,2122270
+3,Wed,10/27/2021,21:00 (03:00),Nice,1.9,1–1,0.7,Marseille,,Stade de l'Aube,Clément Turpin,2122271
+11,Sun,10/24/2021,20:45 (02:45),Marseille,1.4,0–0,1.5,Paris S-G,"65,121",Orange Vélodrome,Benoît Bastien,2122272
+11,Sun,10/24/2021,17:00 (23:00),Monaco,1.4,3–1,1.5,Montpellier,"4,861",Stade Louis II.,François Letexier,2122273
+11,Sun,10/24/2021,15:00 (21:00),Reims,1,1–2,1,Troyes,"12,326",Stade Auguste-Delaune II,Pierre Gaillouste,2122274
+11,Sun,10/24/2021,15:00 (21:00),Lorient,1.3,1–1,1.3,Bordeaux,"11,678",Stade Yves Allainmat - Le Moustoir,Thomas Léonard,2122275
+11,Sun,10/24/2021,15:00 (21:00),Lens,1.9,4–1,0.8,Metz,"35,673",Stade Bollaert-Delelis,Jérémie Pignard,2122276
+11,Sun,10/24/2021,15:00 (21:00),Rennes,1.4,1–0,0.8,Strasbourg,"27,185",Roazhon Park,Stéphanie Frappart,2122277
+11,Sun,10/24/2021,13:00 (19:00),Nice,2.7,3–2,1.3,Lyon,"24,519",Stade de Nice,Jérôme Brisard,2122278
+11,Sat,10/23/2021,21:00 (03:00),Lille,1.7,1–1,1.2,Brest,"32,613",Stade Pierre-Mauroy,Clément Turpin,2122279
+11,Sat,10/23/2021,17:00 (23:00),Nantes,1.2,2–1,0.8,Clermont Foot,"19,968",Stade de la Beaujoire - Louis Fonteneau,Romain Lissorgue,2122280
+11,Fri,10/22/2021,21:00 (03:00),Saint-Étienne,1.7,2–2,0.7,Angers,"19,836",Stade Geoffroy-Guichard,Antony Gautier,2122281
+10,Sun,10/17/2021,20:45 (02:45),Marseille,2.3,4–1,2.4,Lorient,"57,349",Orange Vélodrome,Antony Gautier,2122282
+10,Sun,10/17/2021,17:00 (23:00),Montpellier,1.8,1–0,1.3,Lens,"12,474",Stade de la Mosson,Florent Batta,2122283
+10,Sun,10/17/2021,15:00 (21:00),Strasbourg,2.2,5–1,1,Saint-Étienne,"25,371",Stade de la Meinau,Mikael Lesage,2122284
+10,Sun,10/17/2021,15:00 (21:00),Metz,0.9,0–3,2.1,Rennes,"15,679",Stade Saint-Symphorien,Benoît Millot,2122285
+10,Sun,10/17/2021,15:00 (21:00),Bordeaux,0.8,1–1,1.1,Nantes,"39,510",Stade Matmut-Atlantique,Willy Delajod,2122286
+10,Sun,10/17/2021,15:00 (21:00),Brest,1,1–1,0.9,Reims,"9,693",Stade Francis-Le Blé,Jeremy Stinat,2122287
+10,Sun,10/17/2021,13:00 (19:00),Troyes,0.9,1–0,0.7,Nice,"7,925",Stade de l'Aube,Johan Hamel,2122288
+10,Sat,10/16/2021,21:00 (03:00),Lyon,2.6,2–0,0.9,Monaco,"50,585",Groupama Stadium,Amaury Delerue,2122289
+10,Sat,10/16/2021,17:00 (23:00),Clermont Foot,0.3,1–0,1.1,Lille,"11,537",Stade Gabriel Montpied,Eric Wattellier,2122290
+10,Fri,10/15/2021,21:00 (03:00),Paris S-G,2.1,2–1,1,Angers,"47,646",Parc des Princes,Bastien Dechepy,2122291
+9,Sun,10/3/2021,20:45 (02:45),Saint-Étienne,2.6,1–1,1.6,Lyon,"33,643",Stade Geoffroy-Guichard,François Letexier,2122292
+9,Sun,10/3/2021,17:00 (23:00),Lille,3.1,2–0,0.6,Marseille,"44,839",Stade Pierre-Mauroy,Jérémie Pignard,2122293
+9,Sun,10/3/2021,15:00 (21:00),Nantes,1.7,2–0,1.5,Troyes,"15,150",Stade de la Beaujoire - Louis Fonteneau,Jérôme Brisard,2122294
+9,Sun,10/3/2021,15:00 (21:00),Angers,2.6,3–2,1.2,Metz,"3,989",Stade Raymond Kopa,Stéphanie Frappart,2122295
+9,Sun,10/3/2021,15:00 (21:00),Monaco,1.8,3–0,0.3,Bordeaux,"3,667",Stade Louis II.,Clément Turpin,2122296
+9,Sun,10/3/2021,15:00 (21:00),Lorient,0.7,1–1,1.2,Clermont Foot,"12,611",Stade Yves Allainmat - Le Moustoir,Pierre Gaillouste,2122297
+9,Sun,10/3/2021,13:00 (19:00),Rennes,1,2–0,1.6,Paris S-G,"28,092",Roazhon Park,Ruddy Buquet,2122298
+9,Sat,10/2/2021,21:00 (03:00),Nice,4,2–1,0.6,Brest,"13,503",Stade de Nice,António Nobre,2122299
+9,Sat,10/2/2021,17:00 (23:00),Montpellier,1,1–1,0.4,Strasbourg,"9,851",Stade de la Mosson,Hakim Ben El Hadj Salem,2122300
+9,Fri,10/1/2021,21:00 (03:00),Lens,2.4,2–0,0.2,Reims,,Stade Bollaert-Delelis,Benoît Bastien,2122301
+8,Sun,9/26/2021,20:45 (02:45),Marseille,1.9,2–3,1.9,Lens,"50,001",Orange Vélodrome,Mikael Lesage,2122302
+8,Sun,9/26/2021,17:00 (23:00),Clermont Foot,1.3,1–3,1.8,Monaco,"11,529",Stade Gabriel Montpied,Benoît Millot,2122303
+8,Sun,9/26/2021,15:00 (21:00),Reims,1,3–1,0.8,Nantes,280,Stade Auguste-Delaune II,Eric Wattellier,2122304
+8,Sun,9/26/2021,15:00 (21:00),Brest,1.4,1–2,0.5,Metz,"10,398",Stade Francis-Le Blé,Willy Delajod,2122305
+8,Sun,9/26/2021,15:00 (21:00),Troyes,1.4,1–1,1.3,Angers,"6,868",Stade de l'Aube,Thomas Léonard,2122306
+8,Sun,9/26/2021,13:00 (19:00),Bordeaux,0.8,1–1,2.1,Rennes,"16,675",Stade Matmut-Atlantique,Hakim Ben El Hadj Salem,2122307
+8,Sat,9/25/2021,21:00 (03:00),Lyon,1.2,1–1,0.8,Lorient,"36,424",Groupama Stadium,Bastien Dechepy,2122308
+8,Sat,9/25/2021,21:00 (03:00),Paris S-G,2.3,2–0,0.3,Montpellier,"47,408",Parc des Princes,Antony Gautier,2122309
+8,Sat,9/25/2021,19:00 (01:00),Strasbourg,0.6,1–2,2.3,Lille,"23,762",Stade de la Meinau,François Letexier,2122310
+8,Sat,9/25/2021,17:00 (23:00),Saint-Étienne,0.7,0–3,2.5,Nice,"19,980",Stade Geoffroy-Guichard,Amaury Delerue,2122311
+7,Wed,9/22/2021,21:00 (03:00),Metz,0.9,1–2,1.3,Paris S-G,"2,661",Stade Saint-Symphorien,Jérémie Pignard,2122312
+7,Wed,9/22/2021,21:00 (03:00),Angers,0.5,0–0,0.8,Marseille,"12,458",Stade Raymond Kopa,Ruddy Buquet,2122313
+7,Wed,9/22/2021,21:00 (03:00),Lorient,0.4,1–0,2.5,Nice,"10,687",Stade Yves Allainmat - Le Moustoir,Romain Lissorgue,2122314
+7,Wed,9/22/2021,21:00 (03:00),Lens,2,0–1,1.2,Strasbourg,,Stade Bollaert-Delelis,Jeremy Stinat,2122315
+7,Wed,9/22/2021,21:00 (03:00),Lyon,1.9,3–1,1.6,Troyes,"29,714",Groupama Stadium,Stéphanie Frappart,2122316
+7,Wed,9/22/2021,19:00 (01:00),Monaco,1.9,3–1,0.4,Saint-Étienne,"3,579",Stade Louis II.,Jérôme Brisard,2122317
+7,Wed,9/22/2021,19:00 (01:00),Montpellier,1.6,3–3,1.3,Bordeaux,"9,585",Stade de la Mosson,Mikael Lesage,2122318
+7,Wed,9/22/2021,19:00 (01:00),Lille,1,2–1,1.4,Reims,"32,604",Stade Pierre-Mauroy,Johan Hamel,2122319
+7,Wed,9/22/2021,19:00 (01:00),Nantes,1.4,3–1,1.1,Brest,"19,676",Stade de la Beaujoire - Louis Fonteneau,Thomas Léonard,2122320
+7,Wed,9/22/2021,19:00 (01:00),Rennes,2.6,6–0,0.3,Clermont Foot,"24,109",Roazhon Park,Benoît Bastien,2122321
+6,Sun,9/19/2021,20:45 (02:45),Paris S-G,1.9,2–1,0.8,Lyon,"47,611",Parc des Princes,Clément Turpin,2122322
+6,Sun,9/19/2021,17:00 (23:00),Marseille,2.2,2–0,1.7,Rennes,"54,188",Orange Vélodrome,Willy Delajod,2122323
+6,Sun,9/19/2021,15:00 (21:00),Angers,0.9,1–4,2.2,Nantes,"9,046",Stade Raymond Kopa,Amaury Delerue,2122324
+6,Sun,9/19/2021,15:00 (21:00),Reims,1,0–0,0.4,Lorient,"9,443",Stade Auguste-Delaune II,Hakim Ben El Hadj Salem,2122325
+6,Sun,9/19/2021,15:00 (21:00),Clermont Foot,1.2,1–1,0.5,Brest,"11,224",Stade Gabriel Montpied,Bastien Dechepy,2122326
+6,Sun,9/19/2021,15:00 (21:00),Troyes,0.9,1–1,0.3,Montpellier,"7,405",Stade de l'Aube,Florent Batta,2122327
+6,Sun,9/19/2021,13:00 (19:00),Nice,1.8,2–2,2.4,Monaco,,Stade de Nice,François Letexier,2122328
+6,Sat,9/18/2021,21:00 (03:00),Saint-Étienne,1.6,1–2,2.3,Bordeaux,"23,869",Stade Geoffroy-Guichard,Antony Gautier,2122329
+6,Sat,9/18/2021,17:00 (23:00),Lens,1.2,1–0,0.8,Lille,"36,512",Stade Bollaert-Delelis,Benoît Millot,2122330
+6,Fri,9/17/2021,21:00 (03:00),Strasbourg,2.2,3–0,0.9,Metz,"25,437",Stade de la Meinau,Eric Wattellier,2122331
+5,Sun,9/12/2021,20:45 (02:45),Lyon,1.7,3–1,1.8,Strasbourg,"33,267",Groupama Stadium,Ruddy Buquet,2122332
+5,Sun,9/12/2021,17:00 (23:00),Nantes,2,0–2,1.7,Nice,"14,597",Stade de la Beaujoire - Louis Fonteneau,Benoît Millot,2122333
+5,Sun,9/12/2021,15:00 (21:00),Metz,0.9,0–2,1,Troyes,"15,269",Stade Saint-Symphorien,Pierre Gaillouste,2122334
+5,Sun,9/12/2021,15:00 (21:00),Brest,1.6,1–1,1.2,Angers,"10,982",Stade Francis-Le Blé,Jeremy Stinat,2122335
+5,Sun,9/12/2021,15:00 (21:00),Bordeaux,0.8,2–3,2.5,Lens,"19,763",Stade Matmut-Atlantique,Luís Godinho,2122336
+5,Sun,9/12/2021,15:00 (21:00),Rennes,0.8,0–2,0.7,Reims,"24,486",Roazhon Park,Thomas Léonard,2122337
+5,Sun,9/12/2021,13:00 (19:00),Montpellier,0.9,2–0,1,Saint-Étienne,"10,402",Stade de la Mosson,Benoît Bastien,2122338
+5,Sat,9/11/2021,21:00 (03:00),Monaco,1,0–2,1.8,Marseille,"8,615",Stade Louis II.,Stéphanie Frappart,2122339
+5,Sat,9/11/2021,17:00 (23:00),Paris S-G,2.3,4–0,1.2,Clermont Foot,"47,329",Parc des Princes,Mikael Lesage,2122340
+5,Fri,9/10/2021,21:00 (03:00),Lorient,2.1,2–1,1.4,Lille,"10,271",Stade Yves Allainmat - Le Moustoir,Clément Turpin,2122341
+4,Sun,8/29/2021,20:45 (02:45),Reims,0.8,0–2,1.5,Paris S-G,"20,525",Stade Auguste-Delaune II,François Letexier,2122342
+4,Sun,8/29/2021,17:00 (23:00),Lille,1.7,2–1,0.5,Montpellier,"28,859",Stade Pierre-Mauroy,Amaury Delerue,2122343
+4,Sun,8/29/2021,15:00 (21:00),Clermont Foot,1.7,2–2,1.5,Metz,"11,274",Stade Gabriel Montpied,Hakim Ben El Hadj Salem,2122344
+4,Sun,8/29/2021,15:00 (21:00),Lens,1.9,2–2,2,Lorient,"35,029",Stade Bollaert-Delelis,Willy Delajod,2122345
+4,Sun,8/29/2021,15:00 (21:00),Angers,2.3,2–0,1.4,Rennes,"6,473",Stade Raymond Kopa,Antony Gautier,2122346
+4,Sun,8/29/2021,15:00 (21:00),Strasbourg,1.5,3–1,1,Brest,"22,341",Stade de la Meinau,Romain Lissorgue,2122347
+4,Sun,8/29/2021,13:00 (19:00),Troyes,1,1–2,1.9,Monaco,"9,866",Stade de l'Aube,Johan Hamel,2122348
+4,Sat,8/28/2021,21:00 (03:00),Marseille,2.4,3–1,1.3,Saint-Étienne,"55,039",Orange Vélodrome,Benoît Millot,2122349
+4,Sat,8/28/2021,17:00 (23:00),Nice,2.7,4–0,1.2,Bordeaux,,Stade de Nice,Jérémie Pignard,2122350
+4,Fri,8/27/2021,21:00 (03:00),Nantes,1.7,0–1,1.4,Lyon,"23,177",Stade de la Beaujoire - Louis Fonteneau,Jérôme Brisard,2122351
+3,Sun,8/22/2021,17:00 (23:00),Rennes,1.4,1–0,0.5,Nantes,"27,569",Roazhon Park,Stéphanie Frappart,2122352
+3,Sun,8/22/2021,15:00 (21:00),Bordeaux,0.9,1–1,1,Angers,"18,281",Stade Matmut-Atlantique,Pierre Gaillouste,2122353
+3,Sun,8/22/2021,15:00 (21:00),Montpellier,3.3,3–1,0.6,Lorient,"6,527",Stade de la Mosson,Bastien Dechepy,2122354
+3,Sun,8/22/2021,15:00 (21:00),Metz,0.6,1–1,1.1,Reims,"14,799",Stade Saint-Symphorien,Florent Batta,2122355
+3,Sun,8/22/2021,15:00 (21:00),Strasbourg,2.6,1–1,1.4,Troyes,"22,185",Stade de la Meinau,Jérôme Brisard,2122356
+3,Sun,8/22/2021,13:00 (19:00),Lyon,4,3–3,1.5,Clermont Foot,"34,713",Groupama Stadium,Thomas Léonard,2122357
+3,Sat,8/21/2021,21:00 (03:00),Saint-Étienne,0.6,1–1,1,Lille,"20,673",Stade Geoffroy-Guichard,Mikael Lesage,2122358
+3,Sat,8/21/2021,17:00 (23:00),Monaco,0.5,0–2,0.7,Lens,"6,483",Stade Louis II.,Jérémie Pignard,2122359
+3,Fri,8/20/2021,21:00 (03:00),Brest,1.4,2–4,1.1,Paris S-G,"14,586",Stade Francis-Le Blé,Eric Wattellier,2122360
+2,Sun,8/15/2021,20:45 (02:45),Marseille,1.4,2–2,0.4,Bordeaux,"50,000",Orange Vélodrome,Ruddy Buquet,2122361
+2,Sun,8/15/2021,17:00 (23:00),Lens,1.9,2–2,1.1,Saint-Étienne,"35,541",Stade Bollaert-Delelis,Amaury Delerue,2122362
+2,Sun,8/15/2021,15:00 (21:00),Reims,2,3–3,1.9,Montpellier,"8,887",Stade Auguste-Delaune II,Jeremy Stinat,2122363
+2,Sun,8/15/2021,15:00 (21:00),Nantes,1.6,2–0,0.8,Metz,"12,054",Stade de la Beaujoire - Louis Fonteneau,Johan Hamel,2122364
+2,Sun,8/15/2021,15:00 (21:00),Brest,2,1–1,1.2,Rennes,"14,271",Stade Francis-Le Blé,Benoît Bastien,2122365
+2,Sun,8/15/2021,15:00 (21:00),Clermont Foot,2.3,2–0,0.6,Troyes,"11,005",Stade Gabriel Montpied,Romain Lissorgue,2122366
+2,Sun,8/15/2021,13:00 (19:00),Angers,2.1,3–0,0.9,Lyon,"6,154",Stade Raymond Kopa,Clément Turpin,2122367
+2,Sat,8/14/2021,21:00 (03:00),Paris S-G,3.2,4–2,0.7,Strasbourg,"46,962",Parc des Princes,Willy Delajod,2122368
+2,Sat,8/14/2021,17:00 (23:00),Lille,1.2,0–4,2,Nice,"30,144",Stade Pierre-Mauroy,Jérôme Brisard,2122369
+2,Fri,8/13/2021,21:00 (03:00),Lorient,0.8,1–0,1.3,Monaco,"12,149",Stade Yves Allainmat - Le Moustoir,Hakim Ben El Hadj Salem,2122370
+1,Sun,8/8/2021,20:45 (02:45),Montpellier,0.6,2–3,2.4,Marseille,"13,500",Stade de la Mosson,Jérémie Pignard,2122371
+1,Sun,8/8/2021,17:00 (23:00),Metz,1.2,3–3,1.4,Lille,"15,551",Stade Saint-Symphorien,Eric Wattellier,2122372
+1,Sun,8/8/2021,15:00 (21:00),Saint-Étienne,2,1–1,0.8,Lorient,"20,461",Stade Geoffroy-Guichard,Thomas Léonard,2122373
+1,Sun,8/8/2021,15:00 (21:00),Nice,1.1,0–0,0.2,Reims,"18,030",Stade de Nice,Johan Hamel,2122374
+1,Sun,8/8/2021,15:00 (21:00),Strasbourg,0.7,0–2,1,Angers,"23,250",Stade de la Meinau,Jeremy Stinat,2122375
+1,Sun,8/8/2021,15:00 (21:00),Bordeaux,1,0–2,3.5,Clermont Foot,"18,748",Stade Matmut-Atlantique,Florent Batta,2122376
+1,Sun,8/8/2021,13:00 (19:00),Rennes,1,1–1,1.9,Lens,"22,567",Roazhon Park,Bastien Dechepy,2122377
+1,Sat,8/7/2021,21:00 (03:00),Troyes,0.8,1–2,1.4,Paris S-G,"15,248",Stade de l'Aube,Amaury Delerue,2122378
+1,Sat,8/7/2021,17:00 (23:00),Lyon,1.8,1–1,1,Brest,"29,018",Groupama Stadium,Mikael Lesage,2122379
+1,Fri,8/6/2021,21:00 (03:00),Monaco,1.7,1–1,0.3,Nantes,"7,500",Stade Louis II.,Antony Gautier,2122380
